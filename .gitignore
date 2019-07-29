@@ -4,3 +4,16 @@
 /.settings/
 /.classpath
 .svn/
+*.class
+*.swp
+Libs/TempTestCase*
+Libs/TempTestSuite*
+bin/lib/TempTestCase*
+Reports/
+/bin/lib/Temp*.class
+
+.classpath
+
+.project
+
+/libs/Temp*.groovy
