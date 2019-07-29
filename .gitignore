@@ -17,3 +17,6 @@ Reports/
 .project
 
 /libs/Temp*.groovy
+/lib/
+
+/keyword/
